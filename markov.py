@@ -119,6 +119,7 @@ def humanInput(vote): # vote is bool
             letterDict[upcoming] = 0
     writeFile('charDict.txt', str(charDict))
 
+#### GRAPHICS ####
 
 from tkinter import *
 
